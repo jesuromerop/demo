@@ -11,7 +11,7 @@ public class DemoApplication {
 
 	@RequestMapping("/")
     String home() {
-        return "Hello World with webhook v5!";
+        return "Hello World with webhook v6!";
     }
 
 	public static void main(String[] args) {
