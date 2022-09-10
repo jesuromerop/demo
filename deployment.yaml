@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: demo
-        image: jesuromerop/demo-spring:v2
+        image: jesuromerop/demo-spring:v3
         imagePullPolicy: Never
         resources:
           limits:
